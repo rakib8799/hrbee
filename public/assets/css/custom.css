@@ -1,0 +1,14 @@
+/* Add Fonts */
+body {
+    font-family: '-apple-system','system-ui','BlinkMacSystemFont',"Segoe UI",'Roboto',"Helvetica Neue", 'Ubuntu','Oxygen', 'Fira Sans', 'Droid Sans', 'Inter', 'Helvetica', sans-serif;
+}
+
+.selected-plan {
+    border: 2px solid #007bff;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.text-validation {
+    color: red;
+}
+
