@@ -21,29 +21,29 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                         <!-- Introduction -->
                         <div>
                             <h1 class="card-title">Terms and Conditions</h1>
-                            <p>Welcome to Nonditosoft!</p>
-                            <p>These terms and conditions outline the rules and regulations for the use of Nonditosoft's Website, located at <a href="https://nonditosoft.com">https://nonditosoft.com</a>.</p>
-                            <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use Nonditosoft if you do not agree to take all of the terms and conditions stated on this page.</p>
+                            <p>Welcome to MKRDev!</p>
+                            <p>These terms and conditions outline the rules and regulations for the use of MKRDev's Website, located at <a href="https://mkrdev.xyz">https://mkrdev.xyz</a>.</p>
+                            <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use MKRDev if you do not agree to take all of the terms and conditions stated on this page.</p>
                             <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Bangladesh. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
                         </div>
 
                         <!-- Cookies -->
                         <div class="mt-5">
                             <h4>1. Cookies</h4>
-                            <p>We employ the use of cookies. By accessing Nonditosoft, you agreed to use cookies in agreement with the Nonditosoft's Privacy Policy.</p>
+                            <p>We employ the use of cookies. By accessing MKRDev, you agreed to use cookies in agreement with the MKRDev's Privacy Policy.</p>
                             <p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
                         </div>
 
                         <!-- License -->
                         <div class="mt-5">
                             <h4>2. License</h4>
-                            <p>Unless otherwise stated, Nonditosoft and/or its licensors own the intellectual property rights for all material on Nonditosoft. All intellectual property rights are reserved. You may access this from Nonditosoft for your own personal use subjected to restrictions set in these terms and conditions.</p>
+                            <p>Unless otherwise stated, MKRDev and/or its licensors own the intellectual property rights for all material on MKRDev. All intellectual property rights are reserved. You may access this from MKRDev for your own personal use subjected to restrictions set in these terms and conditions.</p>
                             <p>You must not:</p>
                             <ul>
-                                <li>Republish material from Nonditosoft.</li>
-                                <li>Sell, rent or sub-license material from Nonditosoft.</li>
-                                <li>Reproduce, duplicate or copy material from Nonditosoft.</li>
-                                <li>Redistribute content from Nonditosoft.</li>
+                                <li>Republish material from MKRDev.</li>
+                                <li>Sell, rent or sub-license material from MKRDev.</li>
+                                <li>Reproduce, duplicate or copy material from MKRDev.</li>
+                                <li>Redistribute content from MKRDev.</li>
                             </ul>
                             <p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.</p>
                         </div>
@@ -95,7 +95,7 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                         <!-- Return & Refund Policy -->
                         <div class="mt-5">
                             <h4>9. Return & Refund Policy</h4>
-                            <p>Nonditosoft is working as a service provider. So Nonditosoft doesn’t have anything to return or refund. It is a non-return & non-refundable product and service.</p>
+                            <p>MKRDev is working as a service provider. So MKRDev doesn’t have anything to return or refund. It is a non-return & non-refundable product and service.</p>
                         </div>
 
                         <!--  Disclaimer -->

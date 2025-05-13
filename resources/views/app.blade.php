@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Welcome to HrBee - the simplest HRM solution for employee management. Manage leaves, attendance, and HR tasks effortlessly with HrBee.">
     <meta name="keywords" content="HRM, HrBee, employee management, leave management, attendance tracking">
-    <meta name="author" content="Nonditosoft">
+    <meta name="author" content="MKRDev">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
     
@@ -15,7 +15,7 @@
     <meta property="og:title" content="{{ $pageTitle }} - HrBee">
     <meta property="og:description" content="HrBee is a leading HRM solution for managing employee data, attendance, and leaves effortlessly.">
     <meta property="og:url" content="https://hrbee.mkrdev.xyz">
-    <meta property="og:site_name" content="HrBee by Nonditosoft">
+    <meta property="og:site_name" content="HrBee by MKRDev">
     <meta property="og:image" content="https://hrbee.mkrdev.xyz/assets/og-image.png">
 
     <!-- Twitter Cards -->

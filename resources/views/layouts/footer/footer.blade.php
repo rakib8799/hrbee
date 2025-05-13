@@ -115,8 +115,8 @@
                     </a>
                     <!--end::Logo image-->
                     <!--begin::Logo image-->
-                    <a class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="https://nonditosoft.com">&copy; 2024
-                        Nondito Soft</a>
+                    <a class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="https://mkrdev.xyz">&copy; 2025
+                        MKR Dev</a>
                     <!--end::Logo image-->
                 </div>
                 <!--end::Copyright-->

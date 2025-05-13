@@ -21,7 +21,7 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                         <!-- Introduction -->
                         <div id="introduction">
                             <h1 class="card-title">Privacy Policy</h1>
-                            <p>At Nonditosoft and its affiliated apps and subsidiaries, we are fully committed to safeguarding your privacy and respecting your data protection rights. This policy outlines how we collect, use, disclose, retain, and protect your personal information. Please read it carefully to understand how we handle and secure your data.</p>
+                            <p>At MKRDev and its affiliated apps and subsidiaries, we are fully committed to safeguarding your privacy and respecting your data protection rights. This policy outlines how we collect, use, disclose, retain, and protect your personal information. Please read it carefully to understand how we handle and secure your data.</p>
                         </div>
 
                         <!-- Collect Information -->
@@ -64,7 +64,7 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                                 <li>Is not deceptive</li>
                                 <li>Does not falsely imply sponsorship, endorsement, or approval</li>
                                 <li>Fits within the context of the linking party’s site</li>
-                                <li>Does not portray Nonditosoft or its products/services in a false, misleading, or derogatory manner</li>
+                                <li>Does not portray MKRDev or its products/services in a false, misleading, or derogatory manner</li>
                                 <li>Complies with all applicable laws and regulations governing content and linking practices</li>
                             </ul>
                         </div>    

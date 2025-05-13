@@ -98,7 +98,7 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                                 <label class="d-flex align-items-center fs-5 fw-semibold">
                                     <span class="required">Workspace Name</span>
                                 </label>
-                                <div class="fs-7 fw-semibold text-muted mb-1">e.g. If company name is Nondito Soft Limited, Workspace Name is <strong>nonditosoft</strong></div>
+                                <div class="fs-7 fw-semibold text-muted mb-1">e.g. If company name is MKR Dev Limited, Workspace Name is <strong>mkrdev</strong></div>
                                 <input class="form-control form-control-lg bg-transparent" type="text" name="workspace" autocomplete="off" placeholder="Workspace Name" value="{{ old('workspace') }}" />
                                 @error('workspace')
                                     <span class="text-validation" style="display: block;">{{ $message }}</span>

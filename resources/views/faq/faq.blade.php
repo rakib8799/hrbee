@@ -68,7 +68,7 @@ style="background-image: url(/media/svg/illustrations/landing.svg)">
                                             <div id="kt_job_5_1" class="collapse show fs-6 ms-1">
                                                 <!--begin::Text-->
                                                 <div class="mb-4 text-gray-600 fw-semibold fs-6 ps-10">
-                                                    HrBee is a SaaS-based employee management platform developed by Nonditosoft. It provides a comprehensive set of tools to manage employee-related tasks, including branch management, job position management, employee management, leave management, and attendance tracking.
+                                                    HrBee is a SaaS-based employee management platform developed by MKRDev. It provides a comprehensive set of tools to manage employee-related tasks, including branch management, job position management, employee management, leave management, and attendance tracking.
                                                 </div>
                                                 <!--end::Text-->
                                             </div>
